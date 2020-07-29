@@ -1,14 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using static InteractableGameObjectsEnum;
 
 public class InteractionManager : MonoBehaviour
 {
     public void InteractionDecider(GameObject interactableGameObject)
     {
-        Debug.Log("");
-
         var enumScriptOnGameObject = interactableGameObject.GetComponent<InteractableGameObjectsEnum>();
 
         if (enumScriptOnGameObject)
