@@ -1,0 +1,33 @@
+buy a teddy bear with tickets
+>Intro
+- tell game prompt
+- game tutorial
+
+>gameplay
+- Add objects to interact with
+ 	- worker
+		- buy bear from
+	- machine
+		- get tickets from money
+	- random dude
+ 		- get money from tickets
+- show objects that you can interact with
+- get tickets
+	- use money
+- get money
+	- trade tickets for money
+	- trade to many tickets and lose game
+- buy teddybear
+	- talk to person behind counter
+- see ticket amount earned
+- see amount of money
+- be warned at some point that someone else might get the bear
+- pause game
+- exit game
+
+>Outro
+- win
+	- get enough tickets for bear
+- lose
+	- man you bout tickets from has enough tickets for bear 
+- credits
