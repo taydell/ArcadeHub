@@ -70,7 +70,6 @@ ArcadeHub/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 # Temporary auto-generated Android Assets
 ArcadeHub/[Aa]ssets/[Ss]treamingAssets/aa.meta
 ArcadeHub/[Aa]ssets/[Ss]treamingAssets/aa/*
-ArcadeHub/Library/ArtifactDB
+ArcadeHub/[Ll]ibrary/ArtifactDB
 ArcadeHub/Library/Artifacts/29/29d60468e4871dedf851dba1d10983f3
 ArcadeHub/Library/CurrentLayout-default.dwlt
-ArcadeHub/Library/ArtifactDB
