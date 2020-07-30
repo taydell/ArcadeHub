@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WorkerInteractions : MonoBehaviour
+public class WorkerInteractions : MonoBehaviour, IInteraction
 {
     public void Interaction()
     {

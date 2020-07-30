@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ExitInteractions : MonoBehaviour
+public class ExitInteractions : MonoBehaviour, IInteraction
 {
     public void Interaction()
     {

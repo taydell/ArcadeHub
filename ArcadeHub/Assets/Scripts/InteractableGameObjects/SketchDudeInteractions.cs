@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SketchDudeInteractions : MonoBehaviour
+public class SketchDudeInteractions : MonoBehaviour, IInteraction
 {
     public void Interaction()
     {

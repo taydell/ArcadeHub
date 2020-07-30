@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MachineInteractions : MonoBehaviour
+public class MachineInteractions : MonoBehaviour, IInteraction
 {
     public void Interaction()
     {
